@@ -882,7 +882,7 @@ function setTodayDate() {
 
 
 
-const BUDGET_API = "http://127.0.0.1:8000";
+const BUDGET_API = API_URL;
 
 const budgetForm = document.getElementById("budget-form");
 const budgetAmount = document.getElementById("budget-amount");
